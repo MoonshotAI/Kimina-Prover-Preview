@@ -42,3 +42,13 @@ Some key ingredients about the design and training of Kimina-Prover Preview are 
       <img src="images/formal-reasoning-pattern.png" alt="The Reinforcement Learning Training System for LLM" width="30%" style="vertical-align:middle">
   </p>
 
+
+## Citation
+```
+@article{kimina_prover_2025,
+	title = {Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning},
+	author = {Wang, Haiming and Unsal, Mert and Lin, Xiaohan and Baksys, Mantas and Liu, Junqi and Santos, Marco Dos and Sung, Flood and Vinyes, Marina and Ying, Zhenzhe and Zhu, Zekai and Lu, Jianqiao and Saxcé, Hugues de and Bailey, Bolton and Song, Chendong and Xiao, Chenjun and Zhang, Dehao and Zhang, Ebony and Pu, Frederick and Zhu, Han and Liu, Jiawei and Bayer, Jonas and Michel, Julien and Yu, Longhui and Dreyfus-Schmidt, Léo and Tunstall, Lewis and Pagani, Luigi and Machado, Moreira and Bourigault, Pauline and Wang, Ran and Polu, Stanislas and Barroyer, Thibaut and Li, Wen-Ding and Niu, Yazhe and Fleureau, Yann and Hu, Yangyang and Yu, Zhouliang and Wang, Zihan and Yang, Zhilin and Liu, Zhengying and Li, Jia},
+	year = {2025},
+	url = {http://arxiv.org/abs/2504.11354},
+}
+```
