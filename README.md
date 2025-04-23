@@ -7,7 +7,8 @@
 <div align="center">
   <a href="Kimina_Prover_Preview.pdf"><img src="images/logo_kn.png" height="16" width="36" style="vertical-align:middle"><b> Tech Report</b></a>  |  
   <a href="https://huggingface.co/collections/AI-MO/kimina-prover-preview-67fb536b883d60e7ca25d7f9"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"><b> HuggingFace</b>
-  </a>
+  </a> |
+  <a href="https://demo.projectnumina.ai/"> 🧮<b> Demo</b></a>
 </div>
 <br>
 
