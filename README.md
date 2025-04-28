@@ -9,7 +9,8 @@
   <a href="https://huggingface.co/collections/AI-MO/kimina-prover-preview-67fb536b883d60e7ca25d7f9"><b>HuggingFace</b>
   </a> 
   | 🧮 <a href="https://demo.projectnumina.ai/"> <b> Demo</b></a> 
-  | <img src="https://lean-lang.org/static/lean_logo.svg" alt="Lean Logo" height="16" style="vertical-align:middle"><a href="https://github.com/project-numina/kimina-lean-server"> <b>Kimina Lean Server</b></a>
+  | <img src="https://lean-lang.org/static/lean_logo.svg" alt="Lean Logo" height="16" style="vertical-align:middle"><a href="https://github.com/project-numina/kimina-lean-server"><b>Kimina Lean Server</b></a>
+  | 🔢 <a href="https://github.com/MoonshotAI/CombiBench"><b>CombiBench</b>
 </div>
 <br>
 
