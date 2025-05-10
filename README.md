@@ -5,7 +5,7 @@
 </p>
 
 <div align="center"> <img src="images/logo_kn.png" height="16" width="36" style="vertical-align:middle"> 
-  <a href="Kimina_Prover_Preview.pdf"><b>Tech Report</b></a>  |  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"> 
+  <a href="https://arxiv.org/abs/2504.11354"><b>Tech Report</b></a>  |  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"> 
   <a href="https://huggingface.co/collections/AI-MO/kimina-prover-preview-67fb536b883d60e7ca25d7f9"><b>HuggingFace</b>
   </a> 
   | 🧮 <a href="https://demo.projectnumina.ai/"> <b> Demo</b></a> 
