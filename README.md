@@ -9,11 +9,20 @@
   <a href="https://huggingface.co/collections/AI-MO/kimina-prover-preview-67fb536b883d60e7ca25d7f9"><b>HuggingFace</b>
   </a> 
   | 🧮 <a href="https://demo.projectnumina.ai/"> <b> Demo</b></a> 
-  | <img src="https://lean-lang.org/static/lean_logo.svg" alt="Lean Logo" height="16" style="vertical-align:middle"><a href="https://github.com/project-numina/kimina-lean-server"><b>Kimina Lean Server</b></a>
-  | 🔢 <a href="https://github.com/MoonshotAI/CombiBench"><b>CombiBench</b>
+  | <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Lean_logo2.svg" alt="Lean Logo" height="16" style="vertical-align:middle"><a href="https://github.com/project-numina/kimina-lean-server"><b>Kimina Lean Server</b></a>
+  | 🔢 <a href="https://github.com/MoonshotAI/CombiBench"><b>CombiBench</b></a>
 </div>
 <br>
 
+<div style="border-left: 4px solid #007bff; padding: 3px; margin: 20px 0; font-size: 16px;">
+
+**🚀 UPDATE - Jul 10, 2025**
+
+We are excited to announce the official release of **Kimina-Prover-72B**! For detailed information about this release, please check out our **[blog post](https://huggingface.co/blog/AI-MO/kimina-prover)**.
+
+</div>
+
+---
 
 📈 Introducing **Kimina-Prover Preview**, the first large formal reasoning model that can reason in a human-like way and prove mathematical theorems rigorously in the Lean 4 language.
 
